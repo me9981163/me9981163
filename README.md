@@ -22,7 +22,8 @@ I'm interested in system programming, Linux, cybersecurity, performance optimiza
 - Python
 - Java
 - JavaScript / TypeScript
-- C / C++ 
+- C / C++
+- Rust 
 
 **Tools & Environments**
 - Linux · Git · GitHub
