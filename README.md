@@ -23,7 +23,8 @@ I'm interested in system programming, Linux, cybersecurity, performance optimiza
 - Java
 - JavaScript / TypeScript
 - C / C++
-- Rust 
+- Rust
+- SQL
 
 **Tools & Environments**
 - Linux · Git · GitHub
